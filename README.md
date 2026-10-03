@@ -25,7 +25,7 @@ This project is pre-configured with a dedicated `vercel.json` for 1-click deploy
    - **Framework Preset**: `Vite`
    - **Build Command**: `npm run build`
    - **Output Directory**: `dist`
-   - **Install Command**: `npm install`
+   - **Install Command**: `npm install --legacy-peer-deps` (Auto-configured via `vercel.json` and `.npmrc`)
 6. Click **Deploy**. Your site will go live in less than 60 seconds with an SSL certificate and global CDN.
 
 ---
