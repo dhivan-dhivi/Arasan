@@ -1,0 +1,6 @@
+{
+  "name": "Arasan Holidays — Premium Travel Agency",
+  "description": "Premier Tamil Nadu based travel agency offering bespoke domestic tour packages, Kerala, Manali, Kashmir, Ooty, luxury vehicle fleet rentals, and customized journeys. Your Journey. Our Responsibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
